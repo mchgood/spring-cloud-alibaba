@@ -1,0 +1,12 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+hello-spring-cloud-alibaba-nacos-consumer-feign/target/
+hello-spring-cloud-alibaba-nacos-consumer/target/
+hello-spring-cloud-alibaba-nacos-provider/target/
+hello-spring-cloud-gateway/target/
