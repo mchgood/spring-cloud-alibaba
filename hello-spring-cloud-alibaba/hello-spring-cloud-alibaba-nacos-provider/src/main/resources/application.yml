@@ -6,7 +6,7 @@ spring:
       discovery:
         server-addr: 192.168.88.129:8848
 server:
-  port: 8082
+  port: 8084
 
 management:
   endpoints:
